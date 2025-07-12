@@ -1,11 +1,10 @@
 # Hello There 👋
 
-<div align="center">
-  <img src="https://github.com/account" width="120" style="border-radius: 50%;" />
-  <h3>kaxxer</h3>
-  <p>Status: <span style="color:red;">Do not disturb</span></p>
-  <p><em>🎧 greedy - Tate McRae</em></p>
-</div>
+### 💬 Discord Status
+
+![Discord Status](https://lanyard.cnrad.dev/api/839784053296594954)
+
+
 
 ---
 
@@ -15,10 +14,6 @@ My nickname is **KAXKER** and I currently live in Iran and working on the [FiveS
 More information in [Website](https://your-website-link.com).
 
 ---
-
-### 💬 Discord Status
-
-![Discord Status](https://lanyard.cnrad.dev/api/839784053296594954)
 
 
 
