@@ -1,6 +1,5 @@
 # Hello There 👋
 
-### 💬 Discord Status
 
 ![Discord Status](https://lanyard.cnrad.dev/api/839784053296594954)
 
