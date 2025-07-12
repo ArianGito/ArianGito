@@ -7,20 +7,11 @@
 
 ---
 
-### Full Stack Developer
-
-My nickname is **KAXKER** and I currently live in Iran and working on the [FiveStar Development](https://github.com/FiveStar-Dev) 👨‍💻 project.  
-More information in [Website](https://your-website-link.com).
-
----
-
-
-
-### </> Socials
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)
+### Skills
+Senior Developer Lua
+Senior Developer Frontend
+Mid Level Developer Backend
+Junior Developer Rust And C++
 
 ---
 
@@ -33,4 +24,4 @@ More information in [Website](https://your-website-link.com).
 ![GitHub Streak](https://streak-stats.demolab.com?user=kaxxer&theme=github-dark&hide_border=true)
 
 <!-- Private Contributions -->
-> 🔒 @KAXXER's activity is private
+> 🔒 @ArianGitos's activity is private
