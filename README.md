@@ -9,6 +9,7 @@
 
 ### Skills 
 Senior Developer Lua,
+Senior Disciord Developer With Js,
 Senior Developer Frontend,
 Mid Level Developer Backend,
 Junior Developer Rust And C++
