@@ -7,10 +7,10 @@
 
 ---
 
-### Skills
-Senior Developer Lua
-Senior Developer Frontend
-Mid Level Developer Backend
+### Skills 
+Senior Developer Lua,
+Senior Developer Frontend,
+Mid Level Developer Backend,
 Junior Developer Rust And C++
 
 ---
