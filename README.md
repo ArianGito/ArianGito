@@ -21,7 +21,7 @@ Junior Developer Rust And C++
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaxxer&theme=github-dark&hide_border=true)
 
 <!-- Contribution streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=kaxxer&theme=github-dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ArianGito&theme=github-dark&hide_border=true)
 
 <!-- Private Contributions -->
 > 🔒 @ArianGitos's activity is private
