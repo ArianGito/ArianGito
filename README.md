@@ -18,7 +18,8 @@ More information in [Website](https://your-website-link.com).
 
 ### 💬 Discord Status
 
-![Discord Status](https://api.lanyard.rest/v1/users/839784053296594954)
+![Discord Status](https://lanyard.cnrad.dev/api/839784053296594954)
+
 
 
 ### </> Socials
